@@ -9,11 +9,11 @@
   ## Table of Contents 
   - [Installation](#installation)
   - [Usage](#usage)
+  - [Deployed Link](#deployed-link-tech-news-heroku)
   - [License](#license)
   - [Contribution](#contribution)
   - [Testing](#testing)
   - [Additional Info](#additional-info)
-  - [Questions](#questions)
   ## Installation:
   You will need the package json on this repo. Use mysql, dotenv and need to seed your server in the following order. You will then need to:
   - npm i
@@ -24,6 +24,8 @@
   - Note to use localhost 3002.
   ## Usage:
   The main use is to go in and out of a Blog and try this out.
+
+  ## Deployed Link: [Tech-News Heroku](https://goa-tech-blog.herokuapp.com/)
   ![img](/src/home-screen.png)
 
   ## License
@@ -36,3 +38,5 @@
   ## Additional Info:
   - Github: [syntaxsemanixs](https://github.com/syntaxsemanixs)
   
+
+[def]: #deployed-link
